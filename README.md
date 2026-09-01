@@ -19,13 +19,6 @@ I actually want to understand when doing solo projects.
 
 ## Projects
 
-### Neural Network from Scratch | MNIST
-Feedforward neural network with forward propagation and backpropagation
-derived and implemented in NumPy — no autograd, no ML framework. Includes the
-underlying matrix operations, built rather than imported. **98% accuracy on
-test data.**
-→ [Repo](https://github.com/JamesaCook5/Neural-network-from-scratch---MNIST) 
-
 ### Project Euler
 75+ mathematical and algorithmic problems, primarily in C and Python, applying
 number theory, combinatorics, dynamic programming, graph algorithms, and
@@ -40,6 +33,15 @@ built on ~64,000 records — data cleaning, feature engineering, and logistic
 regression with gradient descent implemented from first principles in NumPy.
 **~72.7% classification accuracy on test data.**
 → [Repo](https://github.com/JamesaCook5/Cardiovascular-Risk-Prediction-System)
+
+##Data Distribution graph for Men and Women
+*Summer project, July 2025* Created a display using matlabs to show how real word data 
+can create distributions we study during our A-levels; the visualisation of an existing
+topic bridges the gap between theory and a practical example of statistics.
+
+→ [Repo](https://github.com/JamesaCook5/dataDistribution)
+
+
 
 ---
 
