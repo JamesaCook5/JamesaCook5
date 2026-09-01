@@ -1,8 +1,8 @@
 # James Cook
 
-Computer Science student at the University of Warwick. I build things from
-first principles before reaching for a library — the derivation is the part
-I actually want to understand.
+Computer Science student at the University of Warwick. I enjoy building things from
+first principles before reaching for a library - the derivation is the part
+I actually want to understand when doing solo projects.
 
 ---
 
