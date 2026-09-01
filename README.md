@@ -37,8 +37,7 @@ regression with gradient descent implemented from first principles in NumPy.
 ## Data Distribution graph for Men and Women
 *Summer project, July 2025* Created a display using matlabs to show how real word data 
 can create distributions we study during our A-levels; the visualisation of an existing
-topic bridges the gap between theory and a practical example of statistics.
-
+topic bridges the gap between theory and a practical example of statistics. 
 → [Repo](https://github.com/JamesaCook5/dataDistribution)
 
 
